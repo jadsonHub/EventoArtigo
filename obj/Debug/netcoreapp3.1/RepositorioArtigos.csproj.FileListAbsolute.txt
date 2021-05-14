@@ -1,0 +1,13 @@
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\obj\Debug\netcoreapp3.1\RepositorioArtigos.csprojAssemblyReference.cache
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\obj\Debug\netcoreapp3.1\RepositorioArtigos.AssemblyInfoInputs.cache
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\obj\Debug\netcoreapp3.1\RepositorioArtigos.AssemblyInfo.cs
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\obj\Debug\netcoreapp3.1\RepositorioArtigos.csproj.CoreCompileInputs.cache
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\bin\Debug\netcoreapp3.1\RepositorioArtigos.exe
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\bin\Debug\netcoreapp3.1\RepositorioArtigos.deps.json
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\bin\Debug\netcoreapp3.1\RepositorioArtigos.runtimeconfig.json
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\bin\Debug\netcoreapp3.1\RepositorioArtigos.runtimeconfig.dev.json
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\bin\Debug\netcoreapp3.1\RepositorioArtigos.dll
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\bin\Debug\netcoreapp3.1\RepositorioArtigos.pdb
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\obj\Debug\netcoreapp3.1\RepositorioArtigos.dll
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\obj\Debug\netcoreapp3.1\RepositorioArtigos.pdb
+C:\Users\frana\Documents\Aulas C#\RepositorioArtigos\obj\Debug\netcoreapp3.1\RepositorioArtigos.genruntimeconfig.cache
